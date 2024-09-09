@@ -7,7 +7,7 @@ button.addEventListener('click', function(){
     const proximoPasso = 'passo-' + this.getAttribute('data-proximo');
 
     atual.classList.remove('ativo');
-    
+    document.getElementById('proximoPasso').classList('ativo');
 })
 
 })
