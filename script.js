@@ -1,3 +1,7 @@
 const avanca = document.querySelectorAll('.btn-proximo');
 
-avanca.forEach(button => )
+avanca.forEach(button => {
+
+button.addEventListener
+
+})
